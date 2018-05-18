@@ -1,4 +1,6 @@
-// +build linux freebsd solaris openbsd darwin netbsd
+// Modified to support AIX by daniel.balko@wuerth-it.com
+
+// +build linux freebsd solaris openbsd darwin netbsd aix
 
 package client
 

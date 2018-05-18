@@ -1,4 +1,7 @@
+// Modified to support AIX by daniel.balko@wuerth-it.com
+
 // +build !windows
+// +build !aix
 
 package system
 
